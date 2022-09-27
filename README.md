@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Redflue
 - I’m interested in programming softwares and games
-- 🌱 I’m currently learning C#, Python and Lua.
-  Im also a student in computer science
-- I’m not looking to collaborate for now as I want to
-  Focus on developing more skills first
+- 🌱 I’m currently learning C#,Java and Python.
+  Im currently studying IT in a GECEP
 
 <!---
 Redflue/Redflue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
